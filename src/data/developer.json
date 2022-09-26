@@ -1,0 +1,327 @@
+[
+  {
+    "rank": 1,
+    "username": "earlephilhower",
+    "name": "Earle F. Philhower, III",
+    "url": "https://github.com/earlephilhower",
+    "avatar": "https://avatars.githubusercontent.com/u/11875?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "arduino-pico",
+      "description": null,
+      "url": "https://github.com/earlephilhower/arduino-pico"
+    }
+  },
+  {
+    "rank": 2,
+    "username": "marten-seemann",
+    "name": "Marten Seemann",
+    "url": "https://github.com/marten-seemann",
+    "avatar": "https://avatars.githubusercontent.com/u/1478487?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "webtransport-go",
+      "description": null,
+      "url": "https://github.com/marten-seemann/webtransport-go"
+    }
+  },
+  {
+    "rank": 3,
+    "username": "enisn",
+    "name": "Enis Necipoglu",
+    "url": "https://github.com/enisn",
+    "avatar": "https://avatars.githubusercontent.com/u/23705418?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "UraniumUI",
+      "description": null,
+      "url": "https://github.com/enisn/UraniumUI"
+    }
+  },
+  {
+    "rank": 4,
+    "username": "SteveMacenski",
+    "name": "Steve Macenski",
+    "url": "https://github.com/SteveMacenski",
+    "avatar": "https://avatars.githubusercontent.com/u/14944147?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "spatio_temporal_voxel_layer",
+      "description": null,
+      "url": "https://github.com/SteveMacenski/spatio_temporal_voxel_layer"
+    }
+  },
+  {
+    "rank": 5,
+    "username": "bluwy",
+    "name": "Bjorn Lu",
+    "url": "https://github.com/bluwy",
+    "avatar": "https://avatars.githubusercontent.com/u/34116392?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "whyframe",
+      "description": null,
+      "url": "https://github.com/bluwy/whyframe"
+    }
+  },
+  {
+    "rank": 6,
+    "username": "bradfitz",
+    "name": "Brad Fitzpatrick",
+    "url": "https://github.com/bradfitz",
+    "avatar": "https://avatars.githubusercontent.com/u/2621?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "gomemcache",
+      "description": null,
+      "url": "https://github.com/bradfitz/gomemcache"
+    }
+  },
+  {
+    "rank": 7,
+    "username": "benbjohnson",
+    "name": "Ben Johnson",
+    "url": "https://github.com/benbjohnson",
+    "avatar": "https://avatars.githubusercontent.com/u/118015?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "litestream",
+      "description": null,
+      "url": "https://github.com/benbjohnson/litestream"
+    }
+  },
+  {
+    "rank": 8,
+    "username": "abidlabs",
+    "name": "Abubakar Abid",
+    "url": "https://github.com/abidlabs",
+    "avatar": "https://avatars.githubusercontent.com/u/1778297?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "contrastive_vae",
+      "description": null,
+      "url": "https://github.com/abidlabs/contrastive_vae"
+    }
+  },
+  {
+    "rank": 9,
+    "username": "atomiks",
+    "name": "James N",
+    "url": "https://github.com/atomiks",
+    "avatar": "https://avatars.githubusercontent.com/u/22450188?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "tippyjs",
+      "description": null,
+      "url": "https://github.com/atomiks/tippyjs"
+    }
+  },
+  {
+    "rank": 10,
+    "username": "edenhill",
+    "name": "Magnus Edenhill",
+    "url": "https://github.com/edenhill",
+    "avatar": "https://avatars.githubusercontent.com/u/524990?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "kcat",
+      "description": null,
+      "url": "https://github.com/edenhill/kcat"
+    }
+  },
+  {
+    "rank": 11,
+    "username": "devmotion",
+    "name": "David Widmann",
+    "url": "https://github.com/devmotion",
+    "avatar": "https://avatars.githubusercontent.com/u/26102?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": null,
+      "description": null,
+      "url": null
+    }
+  },
+  {
+    "rank": 12,
+    "username": "lewtun",
+    "name": "lewtun",
+    "url": "https://github.com/lewtun",
+    "avatar": "https://avatars.githubusercontent.com/u/26859204?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": null,
+      "description": null,
+      "url": null
+    }
+  },
+  {
+    "rank": 13,
+    "username": "bartlomieju",
+    "name": "Bartek Iwańczuk",
+    "url": "https://github.com/bartlomieju",
+    "avatar": "https://avatars.githubusercontent.com/u/13602871?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "vite-deno-example",
+      "description": null,
+      "url": "https://github.com/bartlomieju/vite-deno-example"
+    }
+  },
+  {
+    "rank": 14,
+    "username": "azure-sdk",
+    "name": "Azure SDK Bot",
+    "url": "https://github.com/azure-sdk",
+    "avatar": "https://avatars.githubusercontent.com/u/53356347?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "docs",
+      "description": null,
+      "url": "https://github.com/azure-sdk/docs"
+    }
+  },
+  {
+    "rank": 15,
+    "username": "trask",
+    "name": "Trask Stalnaker",
+    "url": "https://github.com/trask",
+    "avatar": "https://avatars.githubusercontent.com/u/218610?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": null,
+      "description": null,
+      "url": null
+    }
+  },
+  {
+    "rank": 16,
+    "username": "jdan",
+    "name": "Jordan Scales",
+    "url": "https://github.com/jdan",
+    "avatar": "https://avatars.githubusercontent.com/u/287268?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "98.css",
+      "description": null,
+      "url": "https://github.com/jdan/98.css"
+    }
+  },
+  {
+    "rank": 17,
+    "username": "jdhao",
+    "name": "jdhao",
+    "url": "https://github.com/jdhao",
+    "avatar": "https://avatars.githubusercontent.com/u/16662357?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "nvim-config",
+      "description": null,
+      "url": "https://github.com/jdhao/nvim-config"
+    }
+  },
+  {
+    "rank": 18,
+    "username": "ijjk",
+    "name": "JJ Kasper",
+    "url": "https://github.com/ijjk",
+    "avatar": "https://avatars.githubusercontent.com/u/22380829?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "notion-blog",
+      "description": null,
+      "url": "https://github.com/ijjk/notion-blog"
+    }
+  },
+  {
+    "rank": 19,
+    "username": "freddi-kit",
+    "name": "freddi(Yuki Aki)",
+    "url": "https://github.com/freddi-kit",
+    "avatar": "https://avatars.githubusercontent.com/u/13707872?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": null,
+      "description": null,
+      "url": null
+    }
+  },
+  {
+    "rank": 20,
+    "username": "ankane",
+    "name": "Andrew Kane",
+    "url": "https://github.com/ankane",
+    "avatar": "https://avatars.githubusercontent.com/u/220358?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "pghero",
+      "description": null,
+      "url": "https://github.com/ankane/pghero"
+    }
+  },
+  {
+    "rank": 21,
+    "username": "p-ranav",
+    "name": "Pranav",
+    "url": "https://github.com/p-ranav",
+    "avatar": "https://avatars.githubusercontent.com/u/8450091?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "argparse",
+      "description": null,
+      "url": "https://github.com/p-ranav/argparse"
+    }
+  },
+  {
+    "rank": 22,
+    "username": "mattleibow",
+    "name": "Matthew Leibowitz",
+    "url": "https://github.com/mattleibow",
+    "avatar": "https://avatars.githubusercontent.com/u/1096616?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": null,
+      "description": null,
+      "url": null
+    }
+  },
+  {
+    "rank": 23,
+    "username": "emilk",
+    "name": "Emil Ernerfeldt",
+    "url": "https://github.com/emilk",
+    "avatar": "https://avatars.githubusercontent.com/u/1148717?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "egui",
+      "description": null,
+      "url": "https://github.com/emilk/egui"
+    }
+  },
+  {
+    "rank": 24,
+    "username": "nobu",
+    "name": "Nobuyoshi Nakada",
+    "url": "https://github.com/nobu",
+    "avatar": "https://avatars.githubusercontent.com/u/16700?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "mysql2",
+      "description": null,
+      "url": "https://github.com/nobu/mysql2"
+    }
+  },
+  {
+    "rank": 25,
+    "username": "devxoul",
+    "name": "Suyeol Jeon",
+    "url": "https://github.com/devxoul",
+    "avatar": "https://avatars.githubusercontent.com/u/931655?s=96&v=4",
+    "since": "daily",
+    "popularRepository": {
+      "repositoryName": "URLNavigator",
+      "description": null,
+      "url": "https://github.com/devxoul/URLNavigator"
+    }
+  }
+]

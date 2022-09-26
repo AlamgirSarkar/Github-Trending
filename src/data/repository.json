@@ -1,0 +1,957 @@
+[
+  {
+    "rank": 1,
+    "username": "openai",
+    "repositoryName": "whisper",
+    "url": "https://github.com/openai/whisper",
+    "description": null,
+    "language": "Jupyter Notebook",
+    "languageColor": "#DA5B0B",
+    "totalStars": 7373,
+    "forks": 401,
+    "starsSince": 2126,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "jongwook",
+        "url": "https://github.com/jongwook",
+        "avatar": "https://avatars.githubusercontent.com/u/266841?s=40&v=4"
+      },
+      {
+        "username": "drdaxxy",
+        "url": "https://github.com/drdaxxy",
+        "avatar": "https://avatars.githubusercontent.com/u/40321?s=40&v=4"
+      },
+      {
+        "username": "cool-RR",
+        "url": "https://github.com/cool-RR",
+        "avatar": "https://avatars.githubusercontent.com/u/56778?s=40&v=4"
+      },
+      {
+        "username": "gglanzani",
+        "url": "https://github.com/gglanzani",
+        "avatar": "https://avatars.githubusercontent.com/u/630284?s=40&v=4"
+      },
+      {
+        "username": "ldanilov",
+        "url": "https://github.com/ldanilov",
+        "avatar": "https://avatars.githubusercontent.com/u/1653257?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "username": "doocs",
+    "repositoryName": "advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "totalStars": 65861,
+    "forks": 17558,
+    "starsSince": 146,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "yanglbme",
+        "url": "https://github.com/yanglbme",
+        "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4"
+      },
+      {
+        "username": "ImgBotApp",
+        "url": "https://github.com/ImgBotApp",
+        "avatar": "https://avatars.githubusercontent.com/u/31427850?s=40&v=4"
+      },
+      {
+        "username": "huifer",
+        "url": "https://github.com/huifer",
+        "avatar": "https://avatars.githubusercontent.com/u/26766909?s=40&v=4"
+      },
+      {
+        "username": "chenqimiao",
+        "url": "https://github.com/chenqimiao",
+        "avatar": "https://avatars.githubusercontent.com/u/15151483?s=40&v=4"
+      },
+      {
+        "username": "ZhenghaeHo",
+        "url": "https://github.com/ZhenghaeHo",
+        "avatar": "https://avatars.githubusercontent.com/u/11981281?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "username": "inancgumus",
+    "repositoryName": "learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "totalStars": 14693,
+    "forks": 1972,
+    "starsSince": 328,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "inancgumus",
+        "url": "https://github.com/inancgumus",
+        "avatar": "https://avatars.githubusercontent.com/u/621232?s=40&v=4"
+      },
+      {
+        "username": "firasuke",
+        "url": "https://github.com/firasuke",
+        "avatar": "https://avatars.githubusercontent.com/u/46160727?s=40&v=4"
+      },
+      {
+        "username": "paulwaldmann",
+        "url": "https://github.com/paulwaldmann",
+        "avatar": "https://avatars.githubusercontent.com/u/32001342?s=40&v=4"
+      },
+      {
+        "username": "parkma99",
+        "url": "https://github.com/parkma99",
+        "avatar": "https://avatars.githubusercontent.com/u/84610851?s=40&v=4"
+      },
+      {
+        "username": "anhhh11",
+        "url": "https://github.com/anhhh11",
+        "avatar": "https://avatars.githubusercontent.com/u/1730118?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "username": "pointfreeco",
+    "repositoryName": "swift-snapshot-testing",
+    "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+    "description": "📸Delightful Swift snapshot testing.",
+    "language": "Swift",
+    "languageColor": "#F05138",
+    "totalStars": 2811,
+    "forks": 374,
+    "starsSince": 16,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "stephencelis",
+        "url": "https://github.com/stephencelis",
+        "avatar": "https://avatars.githubusercontent.com/u/658?s=40&v=4"
+      },
+      {
+        "username": "mbrandonw",
+        "url": "https://github.com/mbrandonw",
+        "avatar": "https://avatars.githubusercontent.com/u/135203?s=40&v=4"
+      },
+      {
+        "username": "valeriyvan",
+        "url": "https://github.com/valeriyvan",
+        "avatar": "https://avatars.githubusercontent.com/u/1630974?s=40&v=4"
+      },
+      {
+        "username": "Sherlouk",
+        "url": "https://github.com/Sherlouk",
+        "avatar": "https://avatars.githubusercontent.com/u/15193942?s=40&v=4"
+      },
+      {
+        "username": "regexident",
+        "url": "https://github.com/regexident",
+        "avatar": "https://avatars.githubusercontent.com/u/138017?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "username": "steven-tey",
+    "repositoryName": "dub",
+    "url": "https://github.com/steven-tey/dub",
+    "description": "An open-source link shortener with built-in analytics + free custom domains.",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "totalStars": 1144,
+    "forks": 42,
+    "starsSince": 245,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "steven-tey",
+        "url": "https://github.com/steven-tey",
+        "avatar": "https://avatars.githubusercontent.com/u/28986134?s=40&v=4"
+      },
+      {
+        "username": "MatthewStanciu",
+        "url": "https://github.com/MatthewStanciu",
+        "avatar": "https://avatars.githubusercontent.com/u/14811170?s=40&v=4"
+      },
+      {
+        "username": "shuding",
+        "url": "https://github.com/shuding",
+        "avatar": "https://avatars.githubusercontent.com/u/3676859?s=40&v=4"
+      },
+      {
+        "username": "zposten",
+        "url": "https://github.com/zposten",
+        "avatar": "https://avatars.githubusercontent.com/u/13950246?s=40&v=4"
+      },
+      {
+        "username": "ImBIOS",
+        "url": "https://github.com/ImBIOS",
+        "avatar": "https://avatars.githubusercontent.com/u/41441643?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "username": "MichaelCade",
+    "repositoryName": "90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Shell",
+    "languageColor": "#89e051",
+    "totalStars": 17498,
+    "forks": 3694,
+    "starsSince": 102,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "MichaelCade",
+        "url": "https://github.com/MichaelCade",
+        "avatar": "https://avatars.githubusercontent.com/u/11822323?s=40&v=4"
+      },
+      {
+        "username": "devto-bot",
+        "url": "https://github.com/devto-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/62959930?s=40&v=4"
+      },
+      {
+        "username": "wenchaoh997",
+        "url": "https://github.com/wenchaoh997",
+        "avatar": "https://avatars.githubusercontent.com/u/56105622?s=40&v=4"
+      },
+      {
+        "username": "subineru",
+        "url": "https://github.com/subineru",
+        "avatar": "https://avatars.githubusercontent.com/u/7370576?s=40&v=4"
+      },
+      {
+        "username": "saintdle",
+        "url": "https://github.com/saintdle",
+        "avatar": "https://avatars.githubusercontent.com/u/22192242?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "username": "Launch-X-Latam",
+    "repositoryName": "OnBoarding",
+    "url": "https://github.com/Launch-X-Latam/OnBoarding",
+    "description": null,
+    "language": null,
+    "languageColor": null,
+    "totalStars": 238,
+    "forks": 46,
+    "starsSince": 68,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "ManuOSMx",
+        "url": "https://github.com/ManuOSMx",
+        "avatar": "https://avatars.githubusercontent.com/u/42986813?s=40&v=4"
+      },
+      {
+        "username": "JuanRodiles",
+        "url": "https://github.com/JuanRodiles",
+        "avatar": "https://avatars.githubusercontent.com/u/99294800?s=40&v=4"
+      },
+      {
+        "username": "zoearenasc97",
+        "url": "https://github.com/zoearenasc97",
+        "avatar": "https://avatars.githubusercontent.com/u/87114334?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "username": "IDEA-Research",
+    "repositoryName": "detrex",
+    "url": "https://github.com/IDEA-Research/detrex",
+    "description": "IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "totalStars": 209,
+    "forks": 6,
+    "starsSince": 28,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "rentainhe",
+        "url": "https://github.com/rentainhe",
+        "avatar": "https://avatars.githubusercontent.com/u/48727989?s=40&v=4"
+      },
+      {
+        "username": "SlongLiu",
+        "url": "https://github.com/SlongLiu",
+        "avatar": "https://avatars.githubusercontent.com/u/34858619?s=40&v=4"
+      },
+      {
+        "username": "FengLi-ust",
+        "url": "https://github.com/FengLi-ust",
+        "avatar": "https://avatars.githubusercontent.com/u/34880758?s=40&v=4"
+      },
+      {
+        "username": "SuperHenry2333",
+        "url": "https://github.com/SuperHenry2333",
+        "avatar": "https://avatars.githubusercontent.com/u/22131577?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "username": "catchorg",
+    "repositoryName": "Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "languageColor": "#f34b7d",
+    "totalStars": 15570,
+    "forks": 2663,
+    "starsSince": 8,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "horenmar",
+        "url": "https://github.com/horenmar",
+        "avatar": "https://avatars.githubusercontent.com/u/9026413?s=40&v=4"
+      },
+      {
+        "username": "philsquared",
+        "url": "https://github.com/philsquared",
+        "avatar": "https://avatars.githubusercontent.com/u/92878?s=40&v=4"
+      },
+      {
+        "username": "claremacrae",
+        "url": "https://github.com/claremacrae",
+        "avatar": "https://avatars.githubusercontent.com/u/4840096?s=40&v=4"
+      },
+      {
+        "username": "JoeyGrajciar",
+        "url": "https://github.com/JoeyGrajciar",
+        "avatar": "https://avatars.githubusercontent.com/u/5606370?s=40&v=4"
+      },
+      {
+        "username": "martinmoene",
+        "url": "https://github.com/martinmoene",
+        "avatar": "https://avatars.githubusercontent.com/u/1999290?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "username": "bytecodealliance",
+    "repositoryName": "wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "description": "A fast and secure runtime for WebAssembly",
+    "language": "Rust",
+    "languageColor": "#dea584",
+    "totalStars": 9503,
+    "forks": 796,
+    "starsSince": 291,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "sunfishcode",
+        "url": "https://github.com/sunfishcode",
+        "avatar": "https://avatars.githubusercontent.com/u/4503403?s=40&v=4"
+      },
+      {
+        "username": "alexcrichton",
+        "url": "https://github.com/alexcrichton",
+        "avatar": "https://avatars.githubusercontent.com/u/64996?s=40&v=4"
+      },
+      {
+        "username": "pchickey",
+        "url": "https://github.com/pchickey",
+        "avatar": "https://avatars.githubusercontent.com/u/118618?s=40&v=4"
+      },
+      {
+        "username": "cfallin",
+        "url": "https://github.com/cfallin",
+        "avatar": "https://avatars.githubusercontent.com/u/216148?s=40&v=4"
+      },
+      {
+        "username": "fitzgen",
+        "url": "https://github.com/fitzgen",
+        "avatar": "https://avatars.githubusercontent.com/u/74571?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "username": "freeCodeCamp",
+    "repositoryName": "freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "languageColor": "#3178c6",
+    "totalStars": 353724,
+    "forks": 29530,
+    "starsSince": 197,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "raisedadead",
+        "url": "https://github.com/raisedadead",
+        "avatar": "https://avatars.githubusercontent.com/u/1884376?s=40&v=4"
+      },
+      {
+        "username": "renovate-bot",
+        "url": "https://github.com/renovate-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4"
+      },
+      {
+        "username": "sahat",
+        "url": "https://github.com/sahat",
+        "avatar": "https://avatars.githubusercontent.com/u/544954?s=40&v=4"
+      },
+      {
+        "username": "ojeytonwilliams",
+        "url": "https://github.com/ojeytonwilliams",
+        "avatar": "https://avatars.githubusercontent.com/u/15801806?s=40&v=4"
+      },
+      {
+        "username": "camperbot",
+        "url": "https://github.com/camperbot",
+        "avatar": "https://avatars.githubusercontent.com/u/13561988?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "username": "3xp0rt",
+    "repositoryName": "LockBit-Black-Builder",
+    "url": "https://github.com/3xp0rt/LockBit-Black-Builder",
+    "description": null,
+    "language": null,
+    "languageColor": null,
+    "totalStars": 298,
+    "forks": 199,
+    "starsSince": 63,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "3xp0rt",
+        "url": "https://github.com/3xp0rt",
+        "avatar": "https://avatars.githubusercontent.com/u/61662492?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 13,
+    "username": "salesforce",
+    "repositoryName": "LAVIS",
+    "url": "https://github.com/salesforce/LAVIS",
+    "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "totalStars": 470,
+    "forks": 28,
+    "starsSince": 80,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "dxli94",
+        "url": "https://github.com/dxli94",
+        "avatar": "https://avatars.githubusercontent.com/u/16287080?s=40&v=4"
+      },
+      {
+        "username": "LiJunnan1992",
+        "url": "https://github.com/LiJunnan1992",
+        "avatar": "https://avatars.githubusercontent.com/u/13638455?s=40&v=4"
+      },
+      {
+        "username": "schhoi",
+        "url": "https://github.com/schhoi",
+        "avatar": "https://avatars.githubusercontent.com/u/62374638?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "username": "huggingface",
+    "repositoryName": "transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "🤗Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "totalStars": 70796,
+    "forks": 16223,
+    "starsSince": 58,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "sgugger",
+        "url": "https://github.com/sgugger",
+        "avatar": "https://avatars.githubusercontent.com/u/35901082?s=40&v=4"
+      },
+      {
+        "username": "thomwolf",
+        "url": "https://github.com/thomwolf",
+        "avatar": "https://avatars.githubusercontent.com/u/7353373?s=40&v=4"
+      },
+      {
+        "username": "LysandreJik",
+        "url": "https://github.com/LysandreJik",
+        "avatar": "https://avatars.githubusercontent.com/u/30755778?s=40&v=4"
+      },
+      {
+        "username": "patrickvonplaten",
+        "url": "https://github.com/patrickvonplaten",
+        "avatar": "https://avatars.githubusercontent.com/u/23423619?s=40&v=4"
+      },
+      {
+        "username": "stas00",
+        "url": "https://github.com/stas00",
+        "avatar": "https://avatars.githubusercontent.com/u/10676103?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 15,
+    "username": "xkcoding",
+    "repositoryName": "spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "description": "该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、ema…",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "totalStars": 26725,
+    "forks": 9417,
+    "starsSince": 11,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "xkcoding",
+        "url": "https://github.com/xkcoding",
+        "avatar": "https://avatars.githubusercontent.com/u/10429917?s=40&v=4"
+      },
+      {
+        "username": "fxbin",
+        "url": "https://github.com/fxbin",
+        "avatar": "https://avatars.githubusercontent.com/u/29231515?s=40&v=4"
+      },
+      {
+        "username": "lizhongyue248",
+        "url": "https://github.com/lizhongyue248",
+        "avatar": "https://avatars.githubusercontent.com/u/29678316?s=40&v=4"
+      },
+      {
+        "username": "chenqi146",
+        "url": "https://github.com/chenqi146",
+        "avatar": "https://avatars.githubusercontent.com/u/36069431?s=40&v=4"
+      },
+      {
+        "username": "yaodehaung",
+        "url": "https://github.com/yaodehaung",
+        "avatar": "https://avatars.githubusercontent.com/u/8554998?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "username": "InterviewReady",
+    "repositoryName": "system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "description": "These are the best resources for System Design on the Internet",
+    "language": null,
+    "languageColor": null,
+    "totalStars": 8184,
+    "forks": 923,
+    "starsSince": 18,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "coding-parrot",
+        "url": "https://github.com/coding-parrot",
+        "avatar": "https://avatars.githubusercontent.com/u/59478396?s=40&v=4"
+      },
+      {
+        "username": "Akshay-Singh-Rajput",
+        "url": "https://github.com/Akshay-Singh-Rajput",
+        "avatar": "https://avatars.githubusercontent.com/u/97354310?s=40&v=4"
+      },
+      {
+        "username": "alexolivier",
+        "url": "https://github.com/alexolivier",
+        "avatar": "https://avatars.githubusercontent.com/u/1760534?s=40&v=4"
+      },
+      {
+        "username": "V14-3",
+        "url": "https://github.com/V14-3",
+        "avatar": "https://avatars.githubusercontent.com/u/35497802?s=40&v=4"
+      },
+      {
+        "username": "BackAged",
+        "url": "https://github.com/BackAged",
+        "avatar": "https://avatars.githubusercontent.com/u/46702946?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 17,
+    "username": "wailsapp",
+    "repositoryName": "wails",
+    "url": "https://github.com/wailsapp/wails",
+    "description": "Create beautiful applications using Go",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "totalStars": 11410,
+    "forks": 528,
+    "starsSince": 295,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "leaanthony",
+        "url": "https://github.com/leaanthony",
+        "avatar": "https://avatars.githubusercontent.com/u/1943904?s=40&v=4"
+      },
+      {
+        "username": "stffabi",
+        "url": "https://github.com/stffabi",
+        "avatar": "https://avatars.githubusercontent.com/u/9464631?s=40&v=4"
+      },
+      {
+        "username": "tmclane",
+        "url": "https://github.com/tmclane",
+        "avatar": "https://avatars.githubusercontent.com/u/511975?s=40&v=4"
+      },
+      {
+        "username": "misitebao",
+        "url": "https://github.com/misitebao",
+        "avatar": "https://avatars.githubusercontent.com/u/28185258?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot",
+        "url": "https://github.com/apps/dependabot",
+        "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "username": "caddyserver",
+    "repositoryName": "caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "description": "Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "totalStars": 43179,
+    "forks": 3371,
+    "starsSince": 45,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "mholt",
+        "url": "https://github.com/mholt",
+        "avatar": "https://avatars.githubusercontent.com/u/1128849?s=40&v=4"
+      },
+      {
+        "username": "francislavoie",
+        "url": "https://github.com/francislavoie",
+        "avatar": "https://avatars.githubusercontent.com/u/2111701?s=40&v=4"
+      },
+      {
+        "username": "mohammed90",
+        "url": "https://github.com/mohammed90",
+        "avatar": "https://avatars.githubusercontent.com/u/2636183?s=40&v=4"
+      },
+      {
+        "username": "hairyhenderson",
+        "url": "https://github.com/hairyhenderson",
+        "avatar": "https://avatars.githubusercontent.com/u/2037086?s=40&v=4"
+      },
+      {
+        "username": "sarge",
+        "url": "https://github.com/sarge",
+        "avatar": "https://avatars.githubusercontent.com/u/99003?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 19,
+    "username": "dragonflydb",
+    "repositoryName": "dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "description": "A modern replacement for Redis and Memcached",
+    "language": "C++",
+    "languageColor": "#f34b7d",
+    "totalStars": 12135,
+    "forks": 290,
+    "starsSince": 30,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "romange",
+        "url": "https://github.com/romange",
+        "avatar": "https://avatars.githubusercontent.com/u/3674760?s=40&v=4"
+      },
+      {
+        "username": "odedponcz",
+        "url": "https://github.com/odedponcz",
+        "avatar": "https://avatars.githubusercontent.com/u/1139157?s=40&v=4"
+      },
+      {
+        "username": "ryanrussell",
+        "url": "https://github.com/ryanrussell",
+        "avatar": "https://avatars.githubusercontent.com/u/523300?s=40&v=4"
+      },
+      {
+        "username": "iko1",
+        "url": "https://github.com/iko1",
+        "avatar": "https://avatars.githubusercontent.com/u/11705712?s=40&v=4"
+      },
+      {
+        "username": "dranikpg",
+        "url": "https://github.com/dranikpg",
+        "avatar": "https://avatars.githubusercontent.com/u/20553775?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "username": "zinclabs",
+    "repositoryName": "zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "description": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "totalStars": 12171,
+    "forks": 513,
+    "starsSince": 56,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "hengfeiyang",
+        "url": "https://github.com/hengfeiyang",
+        "avatar": "https://avatars.githubusercontent.com/u/1628250?s=40&v=4"
+      },
+      {
+        "username": "prabhatsharma",
+        "url": "https://github.com/prabhatsharma",
+        "avatar": "https://avatars.githubusercontent.com/u/4242188?s=40&v=4"
+      },
+      {
+        "username": "xiaojun207",
+        "url": "https://github.com/xiaojun207",
+        "avatar": "https://avatars.githubusercontent.com/u/10277455?s=40&v=4"
+      },
+      {
+        "username": "apps/dependabot",
+        "url": "https://github.com/apps/dependabot",
+        "avatar": "https://avatars.githubusercontent.com/in/29110?s=40&v=4"
+      },
+      {
+        "username": "snyk-bot",
+        "url": "https://github.com/snyk-bot",
+        "avatar": "https://avatars.githubusercontent.com/u/19733683?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 21,
+    "username": "AppFlowy-IO",
+    "repositoryName": "AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "language": "Dart",
+    "languageColor": "#00B4AB",
+    "totalStars": 27233,
+    "forks": 1480,
+    "starsSince": 43,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "appflowy",
+        "url": "https://github.com/appflowy",
+        "avatar": "https://avatars.githubusercontent.com/u/86001920?s=40&v=4"
+      },
+      {
+        "username": "LucasXu0",
+        "url": "https://github.com/LucasXu0",
+        "avatar": "https://avatars.githubusercontent.com/u/11863087?s=40&v=4"
+      },
+      {
+        "username": "vincentdchan",
+        "url": "https://github.com/vincentdchan",
+        "avatar": "https://avatars.githubusercontent.com/u/2352832?s=40&v=4"
+      },
+      {
+        "username": "MikeWallaceDev",
+        "url": "https://github.com/MikeWallaceDev",
+        "avatar": "https://avatars.githubusercontent.com/u/5375835?s=40&v=4"
+      },
+      {
+        "username": "annieappflowy",
+        "url": "https://github.com/annieappflowy",
+        "avatar": "https://avatars.githubusercontent.com/u/12026239?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 22,
+    "username": "vulhub",
+    "repositoryName": "vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "language": "Dockerfile",
+    "languageColor": "#384d54",
+    "totalStars": 12223,
+    "forks": 3753,
+    "starsSince": 8,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "phith0n",
+        "url": "https://github.com/phith0n",
+        "avatar": "https://avatars.githubusercontent.com/u/5711185?s=40&v=4"
+      },
+      {
+        "username": "JrDw0",
+        "url": "https://github.com/JrDw0",
+        "avatar": "https://avatars.githubusercontent.com/u/37445725?s=40&v=4"
+      },
+      {
+        "username": "monburan",
+        "url": "https://github.com/monburan",
+        "avatar": "https://avatars.githubusercontent.com/u/11970685?s=40&v=4"
+      },
+      {
+        "username": "CatAndCoffee",
+        "url": "https://github.com/CatAndCoffee",
+        "avatar": "https://avatars.githubusercontent.com/u/22583325?s=40&v=4"
+      },
+      {
+        "username": "ldqsmile",
+        "url": "https://github.com/ldqsmile",
+        "avatar": "https://avatars.githubusercontent.com/u/25690667?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 23,
+    "username": "dotnet",
+    "repositoryName": "runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "language": "C#",
+    "languageColor": "#178600",
+    "totalStars": 10123,
+    "forks": 3404,
+    "starsSince": 9,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "vargaz",
+        "url": "https://github.com/vargaz",
+        "avatar": "https://avatars.githubusercontent.com/u/186301?s=40&v=4"
+      },
+      {
+        "username": "stephentoub",
+        "url": "https://github.com/stephentoub",
+        "avatar": "https://avatars.githubusercontent.com/u/2642209?s=40&v=4"
+      },
+      {
+        "username": "kumpera",
+        "url": "https://github.com/kumpera",
+        "avatar": "https://avatars.githubusercontent.com/u/5738?s=40&v=4"
+      },
+      {
+        "username": "jkotas",
+        "url": "https://github.com/jkotas",
+        "avatar": "https://avatars.githubusercontent.com/u/6668460?s=40&v=4"
+      },
+      {
+        "username": "illupus",
+        "url": "https://github.com/illupus",
+        "avatar": "https://avatars.githubusercontent.com/u/263091?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 24,
+    "username": "hyperium",
+    "repositoryName": "tonic",
+    "url": "https://github.com/hyperium/tonic",
+    "description": "A native gRPC client & server implementation with async/await support.",
+    "language": "Rust",
+    "languageColor": "#dea584",
+    "totalStars": 5848,
+    "forks": 618,
+    "starsSince": 10,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "LucioFranco",
+        "url": "https://github.com/LucioFranco",
+        "avatar": "https://avatars.githubusercontent.com/u/5758045?s=40&v=4"
+      },
+      {
+        "username": "davidpdrsn",
+        "url": "https://github.com/davidpdrsn",
+        "avatar": "https://avatars.githubusercontent.com/u/718941?s=40&v=4"
+      },
+      {
+        "username": "alce",
+        "url": "https://github.com/alce",
+        "avatar": "https://avatars.githubusercontent.com/u/1133?s=40&v=4"
+      },
+      {
+        "username": "jen20",
+        "url": "https://github.com/jen20",
+        "avatar": "https://avatars.githubusercontent.com/u/548524?s=40&v=4"
+      },
+      {
+        "username": "tottoto",
+        "url": "https://github.com/tottoto",
+        "avatar": "https://avatars.githubusercontent.com/u/16907501?s=40&v=4"
+      }
+    ]
+  },
+  {
+    "rank": 25,
+    "username": "FreeRTOS",
+    "repositoryName": "FreeRTOS-Kernel",
+    "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "description": "FreeRTOS kernel files only, submoduled intohttps://github.com/FreeRTOS/FreeRTOSand various other repos.",
+    "language": "C",
+    "languageColor": "#555555",
+    "totalStars": 1217,
+    "forks": 639,
+    "starsSince": 6,
+    "since": "daily",
+    "builtBy": [
+      {
+        "username": "RichardBarry",
+        "url": "https://github.com/RichardBarry",
+        "avatar": "https://avatars.githubusercontent.com/u/3073890?s=40&v=4"
+      },
+      {
+        "username": "aggarg",
+        "url": "https://github.com/aggarg",
+        "avatar": "https://avatars.githubusercontent.com/u/33462878?s=40&v=4"
+      },
+      {
+        "username": "alfred2g",
+        "url": "https://github.com/alfred2g",
+        "avatar": "https://avatars.githubusercontent.com/u/28123637?s=40&v=4"
+      },
+      {
+        "username": "yuhui-zheng",
+        "url": "https://github.com/yuhui-zheng",
+        "avatar": "https://avatars.githubusercontent.com/u/10982575?s=40&v=4"
+      },
+      {
+        "username": "paulbartell",
+        "url": "https://github.com/paulbartell",
+        "avatar": "https://avatars.githubusercontent.com/u/1633960?s=40&v=4"
+      }
+    ]
+  }
+]
